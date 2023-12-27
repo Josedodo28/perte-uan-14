@@ -1,2 +1,4 @@
 Nama: Jose Heremengildo Da Costa
 Nim: 19101423
+Matkuliah: Cloud computing
+Jam Kuliah:19:50
